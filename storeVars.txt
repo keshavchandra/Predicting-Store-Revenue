@@ -1,0 +1,57 @@
+STORE_NO						Sequential (unique) ID for the stores
+REVENUE_2013					Target Variable (numeric/integer)
+ZIP								Zip Code for the store location
+SQUARE_FEET						Carpet area of the store
+U_CITY							City of the store in USA
+U_STATE							State of the store in USA
+CENSUS_REGION					Census region of the store in USA
+CENSUS_DIVISION					Census division of the store in USA
+TOT_ATTRITION_2012				Total attrition at the store in 2012
+TOT_ATTRITION_2013				Total attrition at the store in 2013
+NUM_ASSISTANT_MANAGERS			Number of assistant managers at the store
+NUM_CUST_ACC_REPS				Number of customer representatives at the store
+NUM_STORE_MANAGERS				Number of store managers at the store
+NUM_EMP_PAY_TYPE_H				Number of employees with hourly pay
+AVG_PAY_RATE_PAY_TYPE_S			Average pay per employee on salary basis
+AVG_PAY_RATE_PAY_TYPE_H			Average pay per employee on hourly basis
+NAT_CURR_ROBBERY				Current account of robbery in the area
+NAT_CURR_BURGLARY				Current account of burglary in the area
+NAT_CURR_MOT_VEH_THEFT			Current account of motor vehicle theft in the area
+NAT_PAST_ROBBERY				Past account of robbery in the area
+NAT_PAST_BURGLARY				Past account of burglary in the area
+NAT_PAST_MOT_VEH_THEFT			Past account of motor vehicle theft in the area
+FRONTAGE_ROAD					Whether the store has a front road opening
+NUM_PARKING_SPACES				Number of parking spaces available at the store
+SIGNAGE_VISIBILITY_IND			Indicator of signage visibility for the store
+AUTOZONE_IND					Indicator of "Autozone" store in the neighborhood
+TARGET_IND						Indicator of "Target" store in the neighborhood
+WALMART_IND						Indicator of "Walmart" store in the neighborhood
+PAYLESS_IND						Indicator of "Payless" store in the neighborhood
+COMP_PRESENCE_IND				Indicator of competing store in the neighborhood
+STRIP_SHOP_CENTER_IND			Indicator of marketplace in the neighborhood
+SINGLE_TENANT_IND				Indicator if the store is a single tenant property
+PAD_IN_SHOP_CENTER_IND			Indicator if the store is a pad site in front of a mall
+MARKETING_EXP_2013				Total marketing expenses incurred by the store in 2013
+MARKETING_EXP_2012				Total marketing expenses incurred by the store in 2012
+TOT_NUM_LEADS					Total number of leads pursued by the store
+NUM_CONVERTED_TO_AGREEMENT		Total number of leads converted to agreement
+PERC_CONVERTED_TO_AGREEMENT		Percentage of leads converted to agreement
+URBANICITY						The nature of the area where the store is located
+CYA01V001						Total population of the area
+CYB02V001						Total number of households in the area
+CYA12V001						"Never Married" people in the area
+CYA12V002						"Now Married" people in the area
+CYA12V003						"Now Married, Spouse Present" people in the area
+CYA12V007						"Widowed" people in the area
+CYA12V008						"Divorced" people in the area
+CYA21V001						Total land area in square miles
+CYB07VBASE						Total number of households in the area
+XCX03V069						Average intracity mass transit fares
+PERC_CYEA07V001					"White" population (as % of total population)
+PERC_CYEA07V004					"African American" population (as % of total population)
+PERC_CYEA07V007					"American Indian" population (as % of total population)
+PERC_CYEA07V010					"Asian" population (as % of total population)
+PERC_CYB11V006					"6 Person" households (as % of total households)
+PERC_CYB11V007					"7+ Person" households (as % of total households)
+PERC_CYC13VV01					Per Capita Income based on total population
+								(% of total population for whom per capita is calculated)
